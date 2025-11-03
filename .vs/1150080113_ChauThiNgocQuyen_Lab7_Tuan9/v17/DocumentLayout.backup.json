@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\chuyendulieu\\hk1_nam4_25-26\\PP_PT_PM_H\u0110\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91A2D0C5-8EC9-4526-84A5-F30825B9C579}|1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9.csproj|e:\\chuyendulieu\\hk1_nam4_25-26\\pp_pt_pm_h\u0111\\1150080113_chauthingocquyen_lab7_tuan9\\1150080113_chauthingocquyen_lab7_tuan9\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A2D0C5-8EC9-4526-84A5-F30825B9C579}|1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9.csproj|solutionrelative:1150080113_chauthingocquyen_lab7_tuan9\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A2D0C5-8EC9-4526-84A5-F30825B9C579}|1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9.csproj|e:\\chuyendulieu\\hk1_nam4_25-26\\pp_pt_pm_h\u0111\\1150080113_chauthingocquyen_lab7_tuan9\\1150080113_chauthingocquyen_lab7_tuan9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A2D0C5-8EC9-4526-84A5-F30825B9C579}|1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9.csproj|solutionrelative:1150080113_chauthingocquyen_lab7_tuan9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A2D0C5-8EC9-4526-84A5-F30825B9C579}|1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9.csproj|e:\\chuyendulieu\\hk1_nam4_25-26\\pp_pt_pm_h\u0111\\1150080113_chauthingocquyen_lab7_tuan9\\1150080113_chauthingocquyen_lab7_tuan9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91A2D0C5-8EC9-4526-84A5-F30825B9C579}|1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9.csproj|solutionrelative:1150080113_chauthingocquyen_lab7_tuan9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\chuyendulieu\\hk1_nam4_25-26\\PP_PT_PM_H\u0110\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\Form1.Designer.cs",
+              "ToolTip": "E:\\chuyendulieu\\hk1_nam4_25-26\\PP_PT_PM_H\u0110\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\Form1.Designer.cs",
+              "RelativeToolTip": "1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\Form1.Designer.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAKEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:00:32.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\chuyendulieu\\hk1_nam4_25-26\\PP_PT_PM_H\u0110\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\Form1.cs",
+              "RelativeDocumentMoniker": "1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\Form1.cs",
+              "ToolTip": "E:\\chuyendulieu\\hk1_nam4_25-26\\PP_PT_PM_H\u0110\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\Form1.cs",
+              "RelativeToolTip": "1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:56:46.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\chuyendulieu\\hk1_nam4_25-26\\PP_PT_PM_H\u0110\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\Form1.cs",
+              "RelativeDocumentMoniker": "1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\Form1.cs",
+              "ToolTip": "E:\\chuyendulieu\\hk1_nam4_25-26\\PP_PT_PM_H\u0110\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\Form1.cs [Design]",
+              "RelativeToolTip": "1150080113_ChauThiNgocQuyen_Lab7_Tuan9\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T05:56:41.549Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
